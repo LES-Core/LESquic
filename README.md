@@ -8,7 +8,7 @@
 [![HTTP/3 + WebTransport](https://img.shields.io/badge/Protocol-QUIC_·_WebTransport-22c55e?style=for-the-badge&logo=http&logoColor=white)](https://www.rfc-editor.org/rfc/rfc9000)
 [![Built on aioquic](https://img.shields.io/badge/Built_on-aioquic-0A9EDC?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aiortc/aioquic)
 [![asyncio](https://img.shields.io/badge/Async-asyncio_native-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://docs.python.org/3/library/asyncio.html)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/licenses/LICENSE-2.0)
 
 Сессии · Надёжные стримы · Ненадёжные датаграммы · Один движок
 
@@ -327,9 +327,9 @@ LESquic/
 
 <div align="center">
 
-Данный проект распространяется под лицензией **GPL-3.0**.
+Данный проект распространяется под лицензией **Apache-2.0**.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/licenses/LICENSE-2.0)
 
 **© 2026 LESquic**
 
