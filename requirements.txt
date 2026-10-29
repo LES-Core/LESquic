@@ -1,0 +1,2 @@
+# lesquic engine
+aioquic>=1.2
