@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="icon.png" width="325px">
+
 # ⚡ LESquic
 
 **Движок потоковой передачи данных поверх QUIC / WebTransport**
